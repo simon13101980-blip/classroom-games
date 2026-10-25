@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: number-works-bob
+    runtime: static
+    buildCommand: "true"
+    staticPublishPath: .

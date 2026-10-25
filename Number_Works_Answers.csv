@@ -1,0 +1,97 @@
+Colour,Station,Task,Question,Expected answer,Method / acceptable reasoning
+RED,Place value,1,Build 243.,243,2 × 100 + 4 × 10 + 3 × 1 = 243.
+RED,Place value,2,Build 506.,506,5 × 100 + 6 × 1 = 506.
+RED,Place value,3,Start at 34. Multiply by 10.,340,Each digit moves one place left (10 times its value). Result: 340.
+RED,Place value,4,Start at 620. Divide by 10.,62,Each digit moves one place right (one tenth its value). Result: 62.
+RED,Compare & round,1,Compare 305 and 350.,<,305 < 350. Compare matching place-value columns from left to right; trailing decimal zeros do not change value.
+RED,Compare & round,2,Compare 609 and 590.,>,609 > 590. Compare matching place-value columns from left to right; trailing decimal zeros do not change value.
+RED,Compare & round,3,Round 246 to the nearest 10.,250,"246 rounds to 250. Find the two adjacent multiples of 10. At the midpoint, choose the greater multiple for these positive numbers."
+RED,Compare & round,4,Round 450 to the nearest 100.,500,"450 rounds to 500. Find the two adjacent multiples of 100. At the midpoint, choose the greater multiple for these positive numbers."
+RED,Addition,1,24 + 13,37,24 + 13 = 37. Combine like units; exchange 10 counters for 1 in the next larger place.
+RED,Addition,2,37 + 25,62,37 + 25 = 62. Combine like units; exchange 10 counters for 1 in the next larger place.
+RED,Addition,3,148 + 76,224,148 + 76 = 224. Combine like units; exchange 10 counters for 1 in the next larger place.
+RED,Addition,4,206 + 187,393,206 + 187 = 393. Combine like units; exchange 10 counters for 1 in the next larger place.
+RED,Subtraction,1,58 − 23,35,"58 − 23 = 35. Exchange 1 larger unit for 10 smaller units where needed, then remove the second number."
+RED,Subtraction,2,52 − 27,25,"52 − 27 = 25. Exchange 1 larger unit for 10 smaller units where needed, then remove the second number."
+RED,Subtraction,3,304 − 128,176,"304 − 128 = 176. Exchange 1 larger unit for 10 smaller units where needed, then remove the second number."
+RED,Subtraction,4,500 − 246,254,"500 − 246 = 254. Exchange 1 larger unit for 10 smaller units where needed, then remove the second number."
+RED,Multiplication,1,12 × 3,36,10 × 3 = 30; 2 × 3 = 6. Sum = 36.
+RED,Multiplication,2,14 × 4,56,10 × 4 = 40; 4 × 4 = 16. Sum = 56.
+RED,Multiplication,3,23 × 3,69,20 × 3 = 60; 3 × 3 = 9. Sum = 69.
+RED,Multiplication,4,16 × 5,80,10 × 5 = 50; 6 × 5 = 30. Sum = 80.
+RED,Division,1,24 ÷ 3,8,8 groups of 3 make 24. Check: 8 × 3 = 24.
+RED,Division,2,36 ÷ 4,9,9 groups of 4 make 36. Check: 9 × 4 = 36.
+RED,Division,3,48 ÷ 6,8,8 groups of 6 make 48. Check: 8 × 6 = 48.
+RED,Division,4,60 ÷ 5,12,12 groups of 5 make 60. Check: 12 × 5 = 60.
+ORANGE,Place value,1,"Build 4,207.",4207,"4 × 1,000 + 2 × 100 + 7 × 1 = 4,207."
+ORANGE,Place value,2,Build 36.4.,36.4,3 × 10 + 6 × 1 + 4 × 0.1 = 36.4.
+ORANGE,Place value,3,Start at 5.8. Multiply by 10.,58,Each digit moves one place left (10 times its value). Result: 58.
+ORANGE,Place value,4,Start at 83. Divide by 10.,8.3,Each digit moves one place right (one tenth its value). Result: 8.3.
+ORANGE,Compare & round,1,Compare 3.7 and 3.07.,>,3.7 > 3.07. Compare matching place-value columns from left to right; trailing decimal zeros do not change value.
+ORANGE,Compare & round,2,Compare 5.4 and 5.40.,=,5.4 = 5.4. Compare matching place-value columns from left to right; trailing decimal zeros do not change value.
+ORANGE,Compare & round,3,"Round 4,278 to the nearest 100.",4300,"4,278 rounds to 4,300. Find the two adjacent multiples of 100. At the midpoint, choose the greater multiple for these positive numbers."
+ORANGE,Compare & round,4,Round 6.7 to the nearest 1.,7,"6.7 rounds to 7. Find the two adjacent multiples of 1. At the midpoint, choose the greater multiple for these positive numbers."
+ORANGE,Addition,1,235 + 178,413,235 + 178 = 413. Combine like units; exchange 10 counters for 1 in the next larger place.
+ORANGE,Addition,2,408 + 296,704,408 + 296 = 704. Combine like units; exchange 10 counters for 1 in the next larger place.
+ORANGE,Addition,3,3.4 + 2.8,6.2,3.4 + 2.8 = 6.2. Combine like units; exchange 10 counters for 1 in the next larger place.
+ORANGE,Addition,4,12.6 + 7.9,20.5,12.6 + 7.9 = 20.5. Combine like units; exchange 10 counters for 1 in the next larger place.
+ORANGE,Subtraction,1,604 − 278,326,"604 − 278 = 326. Exchange 1 larger unit for 10 smaller units where needed, then remove the second number."
+ORANGE,Subtraction,2,"1,200 − 456",744,"1,200 − 456 = 744. Exchange 1 larger unit for 10 smaller units where needed, then remove the second number."
+ORANGE,Subtraction,3,8.2 − 3.7,4.5,"8.2 − 3.7 = 4.5. Exchange 1 larger unit for 10 smaller units where needed, then remove the second number."
+ORANGE,Subtraction,4,20.4 − 8.6,11.8,"20.4 − 8.6 = 11.8. Exchange 1 larger unit for 10 smaller units where needed, then remove the second number."
+ORANGE,Multiplication,1,24 × 6,144,20 × 6 = 120; 4 × 6 = 24. Sum = 144.
+ORANGE,Multiplication,2,32 × 14,448,30 × 10 = 300; 30 × 4 = 120; 2 × 10 = 20; 2 × 4 = 8. Sum = 448.
+ORANGE,Multiplication,3,2.4 × 3,7.2,2 × 3 = 6; 0.4 × 3 = 1.2. Sum = 7.2.
+ORANGE,Multiplication,4,3.6 × 4,14.4,3 × 4 = 12; 0.6 × 4 = 2.4. Sum = 14.4.
+ORANGE,Division,1,84 ÷ 7,12,12 groups of 7 make 84. Check: 12 × 7 = 84.
+ORANGE,Division,2,144 ÷ 12,12,12 groups of 12 make 144. Check: 12 × 12 = 144.
+ORANGE,Division,3,7.2 ÷ 3,2.4,2.4 groups of 3 make 7.2. Check: 2.4 × 3 = 7.2.
+ORANGE,Division,4,9.6 ÷ 4,2.4,2.4 groups of 4 make 9.6. Check: 2.4 × 4 = 9.6.
+GREEN,Place value,1,Build 204.06.,204.06,2 × 100 + 4 × 1 + 6 × 0.01 = 204.06.
+GREEN,Place value,2,Build 7.38.,7.38,7 × 1 + 3 × 0.1 + 8 × 0.01 = 7.38.
+GREEN,Place value,3,Start at 0.47. Multiply by 10.,4.7,Each digit moves one place left (10 times its value). Result: 4.7.
+GREEN,Place value,4,Start at 36.5. Divide by 10.,3.65,Each digit moves one place right (one tenth its value). Result: 3.65.
+GREEN,Compare & round,1,Compare 0.8 and 0.75.,>,0.8 > 0.75. Compare matching place-value columns from left to right; trailing decimal zeros do not change value.
+GREEN,Compare & round,2,Compare 4.09 and 4.9.,<,4.09 < 4.9. Compare matching place-value columns from left to right; trailing decimal zeros do not change value.
+GREEN,Compare & round,3,Round 3.46 to the nearest 0.1.,3.5,"3.46 rounds to 3.5. Find the two adjacent multiples of 0.1. At the midpoint, choose the greater multiple for these positive numbers."
+GREEN,Compare & round,4,Round 7.65 to the nearest 0.1.,7.7,"7.65 rounds to 7.7. Find the two adjacent multiples of 0.1. At the midpoint, choose the greater multiple for these positive numbers."
+GREEN,Addition,1,2.75 + 1.68,4.43,2.75 + 1.68 = 4.43. Combine like units; exchange 10 counters for 1 in the next larger place.
+GREEN,Addition,2,12.48 + 7.56,20.04,12.48 + 7.56 = 20.04. Combine like units; exchange 10 counters for 1 in the next larger place.
+GREEN,Addition,3,30.09 + 4.87,34.96,30.09 + 4.87 = 34.96. Combine like units; exchange 10 counters for 1 in the next larger place.
+GREEN,Addition,4,7.85 + 0.76,8.61,7.85 + 0.76 = 8.61. Combine like units; exchange 10 counters for 1 in the next larger place.
+GREEN,Subtraction,1,6.04 − 2.78,3.26,"6.04 − 2.78 = 3.26. Exchange 1 larger unit for 10 smaller units where needed, then remove the second number."
+GREEN,Subtraction,2,20.05 − 7.86,12.19,"20.05 − 7.86 = 12.19. Exchange 1 larger unit for 10 smaller units where needed, then remove the second number."
+GREEN,Subtraction,3,13.4 − 5.67,7.73,"13.4 − 5.67 = 7.73. Exchange 1 larger unit for 10 smaller units where needed, then remove the second number."
+GREEN,Subtraction,4,8 − 3.46,4.54,"8 − 3.46 = 4.54. Exchange 1 larger unit for 10 smaller units where needed, then remove the second number."
+GREEN,Multiplication,1,3.4 × 6,20.4,3 × 6 = 18; 0.4 × 6 = 2.4. Sum = 20.4.
+GREEN,Multiplication,2,2.5 × 1.2,3,2 × 1 = 2; 2 × 0.2 = 0.4; 0.5 × 1 = 0.5; 0.5 × 0.2 = 0.1. Sum = 3.
+GREEN,Multiplication,3,4.6 × 0.3,1.38,4 × 0.3 = 1.2; 0.6 × 0.3 = 0.18. Sum = 1.38.
+GREEN,Multiplication,4,12.4 × 2.3,28.52,10 × 2 = 20; 10 × 0.3 = 3; 2 × 2 = 4; 2 × 0.3 = 0.6; 0.4 × 2 = 0.8; 0.4 × 0.3 = 0.12. Sum = 28.52.
+GREEN,Division,1,12.6 ÷ 3,4.2,4.2 groups of 3 make 12.6. Check: 4.2 × 3 = 12.6.
+GREEN,Division,2,7.5 ÷ 0.5,15,15 groups of 0.5 make 7.5. Check: 15 × 0.5 = 7.5.
+GREEN,Division,3,14.4 ÷ 1.2,12,12 groups of 1.2 make 14.4. Check: 12 × 1.2 = 14.4.
+GREEN,Division,4,8.4 ÷ 4,2.1,2.1 groups of 4 make 8.4. Check: 2.1 × 4 = 8.4.
+BLUE,Place value,1,"Build 4,050.307.",4050.307,"4 × 1,000 + 5 × 10 + 3 × 0.1 + 7 × 0.001 = 4,050.307."
+BLUE,Place value,2,Build 6.042.,6.042,6 × 1 + 4 × 0.01 + 2 × 0.001 = 6.042.
+BLUE,Place value,3,Start at 0.708. Multiply by 10.,7.08,Each digit moves one place left (10 times its value). Result: 7.08.
+BLUE,Place value,4,Start at 12.34. Divide by 10.,1.234,Each digit moves one place right (one tenth its value). Result: 1.234.
+BLUE,Compare & round,1,Compare 6.045 and 6.05.,<,6.045 < 6.05. Compare matching place-value columns from left to right; trailing decimal zeros do not change value.
+BLUE,Compare & round,2,Compare 0.705 and 0.7050.,=,0.705 = 0.705. Compare matching place-value columns from left to right; trailing decimal zeros do not change value.
+BLUE,Compare & round,3,Round 2.675 to the nearest 0.01.,2.68,"2.675 rounds to 2.68. Find the two adjacent multiples of 0.01. At the midpoint, choose the greater multiple for these positive numbers."
+BLUE,Compare & round,4,Round 9.995 to the nearest 0.01.,10,"9.995 rounds to 10. Find the two adjacent multiples of 0.01. At the midpoint, choose the greater multiple for these positive numbers."
+BLUE,Addition,1,14.275 + 3.868,18.143,14.275 + 3.868 = 18.143. Combine like units; exchange 10 counters for 1 in the next larger place.
+BLUE,Addition,2,0.706 + 0.589,1.295,0.706 + 0.589 = 1.295. Combine like units; exchange 10 counters for 1 in the next larger place.
+BLUE,Addition,3,42.008 + 7.995,50.003,42.008 + 7.995 = 50.003. Combine like units; exchange 10 counters for 1 in the next larger place.
+BLUE,Addition,4,9.999 + 0.001,10,9.999 + 0.001 = 10. Combine like units; exchange 10 counters for 1 in the next larger place.
+BLUE,Subtraction,1,12.004 − 3.578,8.426,"12.004 − 3.578 = 8.426. Exchange 1 larger unit for 10 smaller units where needed, then remove the second number."
+BLUE,Subtraction,2,10 − 6.789,3.211,"10 − 6.789 = 3.211. Exchange 1 larger unit for 10 smaller units where needed, then remove the second number."
+BLUE,Subtraction,3,20.03 − 8.756,11.274,"20.03 − 8.756 = 11.274. Exchange 1 larger unit for 10 smaller units where needed, then remove the second number."
+BLUE,Subtraction,4,5.002 − 1.987,3.015,"5.002 − 1.987 = 3.015. Exchange 1 larger unit for 10 smaller units where needed, then remove the second number."
+BLUE,Multiplication,1,3.25 × 1.4,4.55,3 × 1 = 3; 3 × 0.4 = 1.2; 0.2 × 1 = 0.2; 0.2 × 0.4 = 0.08; 0.05 × 1 = 0.05; 0.05 × 0.4 = 0.02. Sum = 4.55.
+BLUE,Multiplication,2,0.24 × 0.6,0.144,0.2 × 0.6 = 0.12; 0.04 × 0.6 = 0.024. Sum = 0.144.
+BLUE,Multiplication,3,12.5 × 0.24,3,10 × 0.2 = 2; 10 × 0.04 = 0.4; 2 × 0.2 = 0.4; 2 × 0.04 = 0.08; 0.5 × 0.2 = 0.1; 0.5 × 0.04 = 0.02. Sum = 3.
+BLUE,Multiplication,4,4.08 × 2.5,10.2,4 × 2 = 8; 4 × 0.5 = 2; 0.08 × 2 = 0.16; 0.08 × 0.5 = 0.04. Sum = 10.2.
+BLUE,Division,1,3.75 ÷ 1.5,2.5,2.5 groups of 1.5 make 3.75. Check: 2.5 × 1.5 = 3.75.
+BLUE,Division,2,6.48 ÷ 0.24,27,27 groups of 0.24 make 6.48. Check: 27 × 0.24 = 6.48.
+BLUE,Division,3,14.4 ÷ 0.6,24,24 groups of 0.6 make 14.4. Check: 24 × 0.6 = 14.4.
+BLUE,Division,4,9.45 ÷ 3.5,2.7,2.7 groups of 3.5 make 9.45. Check: 2.7 × 3.5 = 9.45.
